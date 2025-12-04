@@ -15,7 +15,7 @@ Visualized trends to support business decisions.
 
 Files Included:
 
-Data/superstore.csv – Raw dataset
+Data/superstore.xlsm – Raw dataset
 
 Visuals/ – Charts and graphs from analysis
 
